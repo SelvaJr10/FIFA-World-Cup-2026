@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup Players Hub",
+  "description": "An interactive profile hub of major world cup players featuring real-time stats, skills radar, and a colorful animated background of digital football players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
